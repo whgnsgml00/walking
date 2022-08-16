@@ -15,8 +15,8 @@ select {
   -webkit-font-smoothing: antialiased; }
 
 .btn-primary {
-  background-color: #00C040;
-  border-color: #00C040; }
+  background-color: #6667ab;
+  border-color: #6667ab; }
   .btn-primary:hover, .btn-primary:active {
     background-color: #00C040 !important;
     border-color: #00C040 !important; }
@@ -24,7 +24,7 @@ select {
     box-shadow: 0 0 0 0.2rem #FFC13D !important; }
 
 .btn-light {
-  color: #00C040;
+  color: #6667ab;
   background-color: #F7F7FB; }
   .btn-light:hover, .btn-light:active {
     color: #00C040;
@@ -114,7 +114,7 @@ footer {
     .nav-global .navbar-brand i {
       font-size: 20px; }
   .nav-global .img-brand {
-    transform: translateY(-3px); }
+    transform: translateY(20px); }
   .nav-global .navbar-nav {
     flex-direction: row; }
     .nav-global .navbar-nav .nav-item + .nav-item {
